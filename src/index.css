@@ -5,5 +5,10 @@ body {
 }
 
 footer {
+  font-size: small;
   padding-left: 10px;
+}
+
+footer a {
+  font-weight: bold;
 }
